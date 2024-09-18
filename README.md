@@ -34,4 +34,4 @@ To install CommerceChampion:
 
 [Link to Walkthrough Video](https://drive.google.com/uc?id=1JQ-Y01yd66TQOIrfAWg3vrkgpS7noYQ6&export=download)
 
-![Screenshot of E-Commerce-Tech]()
+![Screenshot of E-Commerce-Tech](./images/Screenshot%202024-09-17%20181123.png)
